@@ -55,6 +55,21 @@ Allows users to download their personalized career report.
 * Resume Analysis
 * Job Recommendation System
 
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/homepage.png)
+
+### Data Analyst Career Report
+
+![Data Analyst](screenshots/data-analyst.png)
+
+### Business Analyst Career Report
+
+![Business Analyst](screenshots/business-analyst.png)
+  
+
 ## Author
 
 Neha Manjhi
