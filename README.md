@@ -54,6 +54,14 @@ Allows users to download their personalized career report.
 * PDF Report Generation
 * Resume Analysis
 * Job Recommendation System
+## Architecture Diagram
+
+![Architecture Diagram](architecture.png)
+
+### Architecture Flow
+
+User → Web Interface → Role Selection → JavaScript Processing Engine → Career Evaluation Engine → Skill Gap Analyzer → Career Report Generator → Download Report
+
 
 ## Screenshots
 
