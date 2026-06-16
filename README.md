@@ -76,6 +76,12 @@ User → Web Interface → Role Selection → JavaScript Processing Engine → C
 ### Business Analyst Career Report
 
 ![Business Analyst](screenshots/business-analyst.png)
+
+###Ai Engineer Career Report
+ ![AI Engineer](screenshots/ai-engineer.png)
+ 
+###Cyber Analyst Career Report
+![Cyber Security](screenshots/cyber-security.png)
   
 
 ## Author
